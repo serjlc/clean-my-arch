@@ -8,9 +8,7 @@ A simple maintenance script for my Arch Linux.
 - Cleans package caches
 - Removes orphaned packages
 - Updates mirror list
-- Manages system logs
-- Analyzes disk usage
-- Creates system backups
+- Shows system logs
 
 ## Requirements
 
@@ -18,8 +16,6 @@ A simple maintenance script for my Arch Linux.
 - `pacman`
 - `yay`
 - `reflector`
-- `rsync` (for backups)
-- `ncdu` (will be installed if not present)
 
 ## How to use
 
